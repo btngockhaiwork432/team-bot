@@ -1,0 +1,17 @@
+{
+  "name": "team-bot",
+  "version": "1.0.0",
+  "description": "Discord team bot for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.0",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1"
+  }
+}
